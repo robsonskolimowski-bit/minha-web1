@@ -4,7 +4,7 @@
     --cor-fundo: #ffffff;
     --cor-texto:  #0e0d0d;
     --cor-contraste: #fff7f7;
-    --cor-botao: #fff7f7;
+    --cor-botao: #303030;
 
     --fonte-texto:'Segoe UI', sans-serif;
 }
@@ -15,7 +15,7 @@
     --cor-fundo: #2c2a2a;
     --cor-texto:  #e0e0e0;
     --cor-contraste: #41669c;
-    --cor-botao: #fff7f7;
+    --cor-botao: #303030;
 }
 
 .tema-escuro a {
