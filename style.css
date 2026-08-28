@@ -42,12 +42,12 @@ body {
             text-align: center;
             margin: 0 auto;
             padding: 16px;
-            border: 5px solid #5e1010;
+            border: 5px solid #203888;
              
         }
         main{
-            background-color:#FFFFFF;
-            color:#183C63;
+            background-color:#112247;
+            color:#4477ad;
             margin: 0 auto;
             padding: 16px;
             display: flex;
@@ -61,7 +61,7 @@ body {
         } 
      article{
     display: flex;
-    border: 1px solid #183C63;
+    border: 1px solid #73b7ff;
     margin: 16px;
     gap: 16px;
     padding: 16px;
