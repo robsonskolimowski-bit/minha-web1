@@ -1,21 +1,21 @@
 :root {
-    --cor-primaria: #449cfa;
-    --cor-segundaria:#0e3a69;
-    --cor-fundo: #283363;
-    --cor-texto:  #0e0d0d;
-    --cor-contraste: #fff7f7;
-    --cor-botao: #303030;
+    --cor-primaria: #fff5f5;
+    --cor-segundaria:#ffffff;
+    --cor-fundo: #ffffff;
+    --cor-texto:  #fdfdfd;
+    --cor-contraste: #ffffff;
+    --cor-botao: #ffffff;
 
     --fonte-texto:'Segoe UI', sans-serif;
 }
 
 .tema-escuro {
-    --cor-primaria: #183c63;
-    --cor-segundaria:#6095ce;
-    --cor-fundo: #2c2a2a;
-    --cor-texto:  #e0e0e0;
-    --cor-contraste: #41669c;
-    --cor-botao: #303030;
+    --cor-primaria: #010102;
+    --cor-segundaria:#010102;
+    --cor-fundo: #000000;
+    --cor-texto:  #020000;
+    --cor-contraste: #000000;
+    --cor-botao: #000000;
 }
 
 .tema-escuro a {
