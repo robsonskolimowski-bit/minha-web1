@@ -3,7 +3,7 @@
     --cor-segundaria:#ffffff;
     --cor-fundo: #ffffff;
     --cor-texto:  #fdfdfd;
-    --cor-contraste: #ffffff;
+    --cor-contraste: #000000;
     --cor-botao: #ffffff;
 
     --fonte-texto:'Segoe UI', sans-serif;
@@ -14,7 +14,7 @@
     --cor-segundaria:#010102;
     --cor-fundo: #000000;
     --cor-texto:  #020000;
-    --cor-contraste: #000000;
+    --cor-contraste: #ffffff;
     --cor-botao: #000000;
 }
 
@@ -38,7 +38,7 @@ body {
  
  header{
             background-color: var(--cor-fundo);
-            color: var(--cor-primaria);
+            color: var(--cor-contraste);
             text-align: center;
             margin: 0 auto;
             padding: 16px;
